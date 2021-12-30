@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../DOM_PROJET/projet_DOM"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projet _Dom_suivant"
+	}
+}

@@ -1,0 +1,103 @@
+.cont{
+    height: 100vh;
+    width: 100vw;
+    background: white; 
+    display: flex;
+    justify-content: center;
+}
+.first{
+    height: 100%;
+    width: 300px;
+    border: 1px solid black;
+}
+.second{
+    height: 100%;
+    width: 900px;
+    border: 1px solid black;
+    display: flex; 
+    padding: 20px;
+    
+    
+}
+.third{
+    height: 100%;
+    width: 300px;
+    border: 1px solid black;
+}
+.red{
+    height: 200px;
+    width: 200px;
+    margin-right:20px ;
+    background-color: #ff0000;
+    margin: 30px;
+    
+}
+ .green{
+    height: 200px;
+    width: 200px;
+    margin-right:20px ; 
+    background-color: green;
+    margin: 30px;
+}
+.blue{
+    height: 200px;
+    width: 200px;
+    margin-right:20px ; 
+    background-color: blue;
+    margin: 30px;
+} 
+.block1{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.block2{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.block3{
+    height: 300px;
+    width: 300px;
+    border: 1px solid rgb(139, 49, 49);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+/* .progress1{
+   background-color: red ;
+} */
+/* .progress2{
+    background-color: green;
+} */
+.grand{
+    width: 200px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+}
+.grand1{
+    width: 200px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+}
+.grand2{
+    width: 200px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+}
+.degrad{
+    
+}
+
